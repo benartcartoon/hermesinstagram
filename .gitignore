@@ -1,0 +1,12 @@
+.env
+.env.*
+*.json
+!package.json
+!package-lock.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.hermes_instagram_state.json
+credentials.json
+token.json
